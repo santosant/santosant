@@ -7,7 +7,7 @@ Dev @Acotubo.
 
 In love with fullstack .js using ReactJS, AngularJS & NodeJS; #NeverStopLearning.
 
-Passionate about technology and changing people's lives through programming.
+Passionate about technology and my dream is changing people's lives through programming.
 
 "Mastering others is strength; mastering yourself is true power." - Lao Tzu
 #NeverStopLearning is my manifest.
