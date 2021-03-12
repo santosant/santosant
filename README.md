@@ -8,7 +8,7 @@ In love with fullstack .js using ReactJS, AngularJS & NodeJS; #NeverStopLearning
 "Mastering others is strength; mastering yourself is true power." - Lao Tzu
 #NeverStopLearning
 
-Save the world & live with love. 🌍
+Save the world & live with love. ❤🌍
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
